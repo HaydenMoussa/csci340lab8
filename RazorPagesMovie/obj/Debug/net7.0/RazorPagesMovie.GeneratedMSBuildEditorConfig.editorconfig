@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie
 build_property.RootNamespace = RazorPagesMovie
-build_property.ProjectDir = c:\Users\Hayden\Documents\CSCI 340\Github\csci340lab8\RazorPagesMovie\
+build_property.ProjectDir = C:\Users\Hayden\Documents\CSCI 340\Github\csci340lab8\RazorPagesMovie\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Hayden\Documents\CSCI 340\Github\csci340lab8\RazorPagesMovie
+build_property.MSBuildProjectDirectory = C:\Users\Hayden\Documents\CSCI 340\Github\csci340lab8\RazorPagesMovie
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Error.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Index.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Privacy.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Create.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmtcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Delete.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmtcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Details.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmtcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Edit.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmtcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Index.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shark/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmtcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/_ViewImports.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/_ViewStart.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shared/_Layout.cshtml]
+[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab8/RazorPagesMovie/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tg5po7urw9

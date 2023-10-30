@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "c:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\Hayden\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hayden\\AppData\\Roaming\\NuGet\\NuGet.Config"

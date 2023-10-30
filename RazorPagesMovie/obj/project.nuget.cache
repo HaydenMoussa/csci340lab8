@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hXWE482JoWv7L2rV7I8k29AJUqyudKcKhV/iOFfJ76XoUlxnUG9ugn3IAZNMTVlVYddGLQr9OarpdR0HzrvTIQ==",
+  "dgSpecHash": "Lu5x2ZsWlnsK77o6YgabhBfhlDM9EnuhrwC+dWqqId5XmJW+3I4o9u8QXPPW2mY6pRjI3D2XpS+7rm/J8yha7Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "projectFilePath": "C:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab8\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hayden\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Hayden\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
